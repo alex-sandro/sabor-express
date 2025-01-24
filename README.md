@@ -31,10 +31,14 @@ Este projeto reúne os principais conceitos explorados no curso, com ênfase na 
    - **Operadores ternários** para simplificar decisões.  
    - Construção de um sistema com cadastro, listagem e alteração de status dos restaurantes.  
 
-## 🚀 Destaques do projeto  
+## 🚀 Destaques do projeto
+
 Durante o curso, desenvolvemos um sistema funcional com as principais operações de cadastro de restaurantes, estruturado e documentado para facilitar sua compreensão e manutenção.  
 
 ## 📂 Como executar  
+
 Certifique-se de ter o Python instalado. Clone o repositório e execute:  
+
 ```bash  
+
 python app.py
