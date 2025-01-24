@@ -2,7 +2,7 @@
 
 Este projeto reúne os principais conceitos explorados no curso, com ênfase na criação de um sistema simples de cadastro de restaurantes.  
 
-## 📚 O que aprendemos  
+## 📚 Minha jornada de aprendizado nesse curso  
 
 1. **Interação com o usuário**  
    - Uso da função `print()` para exibir mensagens formatadas.  
